@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: a28fe23e96a5a3545805fa6415f27c94
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Areia_Marcador_Faixa_ Bancada Cozinha
+    second: {fileID: 2100000, guid: 765fce9e99a825142a8c4849dcfd9292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chafariz_ Farol
+    second: {fileID: 2100000, guid: 6ccad47ed339571428d1e122e830ebff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chapeu Restaurante_ Barco
+    second: {fileID: 2100000, guid: dafadae3bb20e8a42b79b5c4d57f65ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FerroBanco_ Boia
+    second: {fileID: 2100000, guid: 1a0930835df2e6642a9eb388ae13d285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor
+    second: {fileID: 2100000, guid: 9a64fdcf7bf8bed489e82f8e5bf8f5e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.001
+    second: {fileID: 2100000, guid: 769b1fb8395c60042ba077288cedfe08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.002
+    second: {fileID: 2100000, guid: 1fe1277f86bfb2749812af6d65a54ad4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.003
+    second: {fileID: 2100000, guid: 554f6ed54bebd0a46be3f0eb5d3df1fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.004
+    second: {fileID: 2100000, guid: f4bfd9ca382e4464786b508142da85cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.005
+    second: {fileID: 2100000, guid: 22f4d14aa385b284387cf65a4001507a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.006
+    second: {fileID: 2100000, guid: d76e9d7695908d24b862baf5a1990f8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.007
+    second: {fileID: 2100000, guid: 167fdefaf56a3624094062df51a1500c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.008
+    second: {fileID: 2100000, guid: df660a3ddda4b5f4ebffec3529a80490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.010
+    second: {fileID: 2100000, guid: ea2b33d7c83ec4449b022169c8b831e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.011
+    second: {fileID: 2100000, guid: d42a5f70dca9ceb46bfc0b73b3e1073b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.012
+    second: {fileID: 2100000, guid: a530b8bb046efb04d865de582a989443, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.013
+    second: {fileID: 2100000, guid: 67ca8352806cde2418d88c356ccf315e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.014
+    second: {fileID: 2100000, guid: 0c886f488178b1541a53fd3496db19ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.015
+    second: {fileID: 2100000, guid: f5fbbcebf8ad21e49b9df0f9f35ecf2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.016
+    second: {fileID: 2100000, guid: 5c9081e2b9f5f3c428422c3f32fd16bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.017
+    second: {fileID: 2100000, guid: 8f477def3dc7e9a479c600388984c4cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flor.018
+    second: {fileID: 2100000, guid: d606ee18f41f278479ac4599c44d63fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janela Madeira Restaurante_Estrada_ Parede Cozinha
+    second: {fileID: 2100000, guid: 1f8614fe921160547b0cef4a155ec3f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janela_ Barco
+    second: {fileID: 2100000, guid: 2adc097a4c7c76b49aee29112cf65ccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janelas Predio_ Bancada_ Fogao
+    second: {fileID: 2100000, guid: 2c73fb50d994b5d4f8477e2647a86954, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janelas Predio_ Telhado Cabana_ Barco_ Fogao
+    second: {fileID: 2100000, guid: 87e15f9d1322deb41b0728e64a73a1fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira Restaurante_ Pia
+    second: {fileID: 2100000, guid: f2c4650d4fb4503429714799e74bfd5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MadeiraBanco
+    second: {fileID: 2100000, guid: d665afb2abf294b46b152698f821d9bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mar_Chafariz
+    second: {fileID: 2100000, guid: 5908a46a48beddd4ebfda9ff62afe83c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.038
+    second: {fileID: 2100000, guid: 59192d049c090af48a66fd200ef9116a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintura Predio 2
+    second: {fileID: 2100000, guid: e83cf7c11cf95284d9af2e171aa0b7c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintura Predio_ Cabana
+    second: {fileID: 2100000, guid: c078a20587c80f74eb7c6afb1988b40e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintura Predios 3
+    second: {fileID: 2100000, guid: ee53d66bf61296c43bdf82412fc0fed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintura Restaurante.001
+    second: {fileID: 2100000, guid: da207a1c208243449bb4ff0b1309491b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintura Restaurante.002
+    second: {fileID: 2100000, guid: 8b514afeb6667ef4780f8ebcefd89e17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porta_Toldo Restaurante_ Bancada_ Prato
+    second: {fileID: 2100000, guid: 14b709faf5f701244b581c8c9e16fbef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terreno Mapa Cidade
+    second: {fileID: 2100000, guid: 72187125b9a9ca242a320e0ff08366d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toldo
+    second: {fileID: 2100000, guid: 63124a1256fd98447b7654b9d5486fee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verde Grama_ Montanha Floresta_ Arvore Floresta_ Bancada
+    second: {fileID: 2100000, guid: 62ef8909b00ab404a993c44df700c13d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rua.001
+    second: {fileID: 2100000, guid: 6cca17c2f27e03e46a24da16e3afd059, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
