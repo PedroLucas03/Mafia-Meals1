@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 44febef31eb6f44479e8e967574c2142
+guid: 99d50ddc11013fc4aa908da656b20dbc
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,23 +7,28 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Calca Mafioso
+      name: Boca mafioso
+    second: {fileID: 2100000, guid: 1b5b99eff89619b41a7fbb1aa652f18f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Calca mafioso
     second: {fileID: 2100000, guid: d334450e6a8bda146a3607b68b22ba1c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Chapeu Mafioso
+      name: Chapeu mafioso
     second: {fileID: 2100000, guid: c9a6c765f91ecff4cae0a3657df6d6bf, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Gravata Mafioso
-    second: {fileID: 2100000, guid: 362743e6920dc07468a8e29e069f8f5e, type: 2}
+      name: Chapeu mafioso.001
+    second: {fileID: 2100000, guid: f3b975cb8210a6c4baa9c8ae3e93021b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.007
-    second: {fileID: 2100000, guid: c580f50f46143234b8b81fb26213cfea, type: 2}
+      name: Gravata mafioso
+    second: {fileID: 2100000, guid: 362743e6920dc07468a8e29e069f8f5e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -32,13 +37,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Pele Mafioso
+      name: Pele mafioso
     second: {fileID: 2100000, guid: e8242677c05ea4342abdfe43d9ab8ddd, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Roupa Mafioso
-    second: {fileID: 2100000, guid: 14ce842ff8b9a984e9734fad5ff9463d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -68,9 +68,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Armature|Walk
+      name: Walk|Mafioso
       takeName: Armature|ArmatureAction
-      internalID: 8039437375205953329
+      internalID: 4781951162920444690
       firstFrame: 0
       lastFrame: 29
       wrapMode: 0
@@ -80,7 +80,7 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 1
-      loopBlend: 0
+      loopBlend: 1
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
@@ -97,9 +97,9 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature|Jump
+      name: Jump|Mafioso
       takeName: Armature|ArmatureAction
-      internalID: -2674958278859614444
+      internalID: -1246731831762816583
       firstFrame: 42
       lastFrame: 85
       wrapMode: 0
@@ -126,11 +126,11 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Armature|Idle
+      name: Idle|Mafioso
       takeName: Armature|ArmatureAction
       internalID: 4594303134292970328
-      firstFrame: 85
-      lastFrame: 280
+      firstFrame: 316
+      lastFrame: 374
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -138,7 +138,7 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 1
-      loopBlend: 0
+      loopBlend: 1
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
